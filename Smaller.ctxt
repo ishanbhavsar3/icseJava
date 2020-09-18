@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Smaller
+comment1.params=a\ b
+comment1.target=void\ small(int,\ int)
+comment2.params=c\ d
+comment2.target=void\ main(int,\ int)
+numComments=3
