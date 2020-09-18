@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Number
+comment1.params=n1\ n2
+comment1.target=int\ minimum(int,\ int)
+comment2.params=x1\ x2
+comment2.target=char\ minimum(char,\ char)
+comment3.params=
+comment3.target=void\ run()
+numComments=4
