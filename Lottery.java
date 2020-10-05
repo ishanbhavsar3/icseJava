@@ -1,6 +1,6 @@
 public class Lottery
 {
-    public static void m()
+    public static void main()
     {
         Scanner a = new Scanner(System.in);
         int l1 =  (int)(Math.random()*30);
