@@ -4,9 +4,9 @@ public class Lottery
     public static void main()
     {
         Scanner a = new Scanner(System.in);
-        int l1 =  (int)(Math.random()*30);
+        int l1 =  (int)(Math.random()*20);
         System.out.println("Get a chance to win Rs.10 by testing your luck.");
-        System.out.println("Input a number between 0 and 30.");
+        System.out.println("Input a number between 0 and 20.");
         int c1 = a.nextInt();
         System.out.println("The number you inputted is "+c1+" and the lucky number is "+l1+".");
         if(c1==l1)
@@ -17,9 +17,9 @@ public class Lottery
         {
             System.out.println("You still have 2 chances to go! Best of luck !");
         }
-        System.out.println("Input a number between 0 and 20.");
+        System.out.println("Input a number between 0 and 15.");
         int c2 = a.nextInt();
-        int l2 =  (int)(Math.random()*20);
+        int l2 =  (int)(Math.random()*15);
         System.out.println("The number you inputted is "+c2+" and the lucky number is "+l2+".");
         if(c2==l2)
         {
