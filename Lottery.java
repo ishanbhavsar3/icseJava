@@ -1,3 +1,4 @@
+import java.util.*;
 public class Lottery
 {
     public static void main()
@@ -14,7 +15,7 @@ public class Lottery
         }
         else
         {
-            System.out.println("Your luck is not favouring you today :-(  ");
+            System.out.println("You still have 2 chances to go! Best of luck !");
         }
         System.out.println("Input a number between 0 and 20.");
         int c2 = a.nextInt();
@@ -26,7 +27,7 @@ public class Lottery
         }
         else
         {
-            System.out.println("Your luck is not favouring you today :-( ");
+            System.out.println("You still have 1 last chance to go..Best of luck!");
         }
         System.out.println("Input a number between 0 and 10.");
         int c3 = a.nextInt();
@@ -40,7 +41,7 @@ public class Lottery
         else
         {
             System.out.println("Your luck is not favouring you today :-( ");
-            System.out.println("Better luck next time");
+            System.out.println("You lose. Thank you for playing with us!");
         }
     }
 }
