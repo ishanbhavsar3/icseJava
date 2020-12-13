@@ -10,7 +10,6 @@ public class Ar
         int num2 = sc.nextInt();
         System.out.println("Input operator to work on both");
         int opr = sc.next().charAt(0);
-        {
             if(opr=='+')
             {
                 System.out.println(num1+num2);
@@ -29,8 +28,7 @@ public class Ar
             }
             else
             {
-                System.out.println("Please input arithmetic operator only in opr.");
+                System.out.println("Please input arithmetic operator only to work on your numbers.");
             }
         }
     }
-}
