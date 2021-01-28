@@ -1,7 +1,0 @@
-#BlueJ class context
-comment0.target=simpleInterest
-comment1.params=p_amt\ rate\ time
-comment1.target=double\ Interest(double,\ double,\ int)
-comment2.params=p\ r\ t
-comment2.target=void\ showOutput(double,\ double,\ int)
-numComments=3
