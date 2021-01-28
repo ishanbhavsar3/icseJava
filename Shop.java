@@ -1,27 +1,22 @@
 import java.util.Scanner;
 public class Shop
 {
-    void bill()
+    public static void main(String[] args)
     {
-        System.out.println("Please input product code");
-        
-        Scanner o = new Scanner(System.in);
-        long pc = o.nextLong();
-        
-        System.out.println("Please input price per piece of product.");
-        double pr = o.nextDouble();
-        
-        System.out.println("Please input quantity of goods required.");
-        double qty = o.nextDouble();
-        
-        double cost = qty*pr;
-        
-        double d_cost = (cost - 0.15*cost);
-        
-        System.out.println("Product code : "+pc);
-        System.out.println("Price per piece of product = Rs."+pr);
-        System.out.println("Quantity of product required = "+qty);
-        System.out.println("Total cost of product = Rs."+cost);
-        System.out.println("Cost of product after 15% discount on total cost = Rs."+d_cost);
+        GST call = new GST();
+        double dc2;
+        double nA;
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Input price of product.");
+        double pr = sc.nextDouble();
+        System.out.println("Input quantity purchased of product.");
+        int qt = sc.nextInt();
+        double tc = pr*qt;
+        System.out.println("Input a for intra - state and b for interstate transaction.");
+        char ab = sc.next().charAt(0);
+        System.out.println("Price of product = Rs."+pr);
+        System.out.println("Quantity of Product = "+qt);
+        System.out.println("Total Cost before GST = Rs."+tc);
+        call.main(tc,ab);
     }
 }
