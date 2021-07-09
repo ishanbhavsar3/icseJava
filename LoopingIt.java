@@ -31,6 +31,7 @@ public class LoopingIt
             break;
             
             case 3:
+            System.out.println("Enter a number");
             int b = sc.nextInt();
             do
             {
