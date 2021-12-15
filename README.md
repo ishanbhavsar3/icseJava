@@ -38,7 +38,33 @@ You need to get to the 'save as' of the text editor & save the file with this ex
 
 for me, in Linux Mint,  the user **ishan@MintyIsh**, the execution of the java code begins with first going to the directory in which the java file is stored.
 
-I have a file called **Fibonacci.java**, stored in the **LinDev** folder on my **Desktop**. So, to navigate to my desktop in the terminal I shall use the following command called **cd** . Further, I will get into my folder LinDev. Once that is done, I write the **javac Fibonacci.java** statement in Bash to tell the terminal to get my Fibonacci.java file compiled into a **.class** file. Now you can wait for a while and then type **java Fibonacci** to see your file running in the Linux Terminal. 
+I have a file called **Fibonacci.java**, stored in the **LinDev** folder on my **Desktop**.
+
+```java
+public class Fibonacci
+{
+    public static void main(String[] args)
+    {
+        int n = 10;
+        int n1 = 0;
+        int n2 = 1;
+        System.out.print("First " + n + " terms: ");
+
+        for (int i = 1; i <= n; ++i)
+        {
+            System.out.println(n1);
+
+            int sum = n1 + n2;
+            n1 = n2;
+            n2 = sum;
+        }
+    }
+}
+```
+
+
+
+So, to navigate to my desktop in the terminal I shall use the following command called **cd** . Further, I will get into my folder LinDev. Once that is done, I write the **javac Fibonacci.java** statement in Bash to tell the terminal to get my Fibonacci.java file compiled into a **.class** file. Now you can wait for a while and then type **java Fibonacci** to see your file running in the Linux Terminal. 
 
 ```console
 ishan@MintyIsh:~$ cd Desktop
