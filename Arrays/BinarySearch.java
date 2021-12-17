@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class BinarySearch
 {
-    public static void main()
+    public static void main(String[] args)
     {
         int a[] = {12, 15, 19, 25, 36, 45, 49, 60, 72, 81, 99};
         System.out.println("The array elements are: \n");
