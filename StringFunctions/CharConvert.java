@@ -1,7 +1,7 @@
 import java.util.Scanner;
 public class CharConvert 
 {
-    public static void main() 
+    public static void main(String[] args) 
     {
         String str, up, change = "";
         Scanner sc = new Scanner(System.in);
