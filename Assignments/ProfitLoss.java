@@ -1,24 +1,5 @@
-public class news
+public class ProfitLoss
 {
-    public static void maina()
- 
-    {
-        int y, x;
-        y = 4;
-        x = y++  +  ++y + y;
-        System.out.println(y);
-        System.out.println(x);
-    }
-    void dd()
-    {
-        int a;
-        a = 4;
-        double b1, b2;
-       
-        b2 = (4 * a++) % 5;
-        
-        System.out.println(b2);
-    }
     public static void main()
     { 
         double cp1,cp2,profit,loss;
@@ -47,6 +28,3 @@ public class news
         */
     }
 }
-
-
-    
