@@ -1,3 +1,4 @@
+//ternary use 2
 public class Ass2_4ii
 {
     public static void main()
