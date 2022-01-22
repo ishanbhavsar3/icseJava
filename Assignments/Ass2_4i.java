@@ -1,3 +1,4 @@
+//ternary operator usage
 public class Ass2_4i
 {
     public static void main()
