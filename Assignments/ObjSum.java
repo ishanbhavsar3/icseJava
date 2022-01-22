@@ -1,11 +1,8 @@
 
-/**
- * Write a description of class sum here.
- *
- * @author (your name)
- * @version (a version number or a date)
+/*
+ * @author Ishan Ketan Bhavsar
  */
-public class sum
+public class ObjSum
 {
     int sum_()
     {
