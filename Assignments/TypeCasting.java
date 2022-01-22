@@ -1,4 +1,4 @@
-public class e
+public class TypeCasting
 {
     public static void main()
     {
