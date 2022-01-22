@@ -1,4 +1,4 @@
-class simpleInterest
+class argsSI
 {
     double Interest(double p_amt, double rate, int time)
     {
