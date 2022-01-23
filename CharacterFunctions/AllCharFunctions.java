@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class CharFunLengthy
+public class AllCharFunctions
 {
     public static void main()
     {
