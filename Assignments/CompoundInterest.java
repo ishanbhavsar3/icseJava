@@ -1,4 +1,4 @@
-public class CI_
+public class CompoundInterest
 {
     public static void main()
     {
