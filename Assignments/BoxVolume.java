@@ -1,4 +1,4 @@
-public class Box
+public class BoxVolume
 {
     double width;
     double height;
@@ -10,5 +10,5 @@ public class Box
          depth = d;
          double vol = width*height*depth;
          System.out.println("The volume of the box having height "+h+" units, width "+w+" units and depth as "+d+" units is equal to "+vol);
-    }
+     }
 }
