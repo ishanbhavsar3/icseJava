@@ -1,7 +1,7 @@
 import java.util.Scanner;
 public class AllCharFunctions
 {
-    public static void main()
+    public static void main(String[] args)
     {
         System.out.println("Input 5 characters.");
         Scanner sc = new Scanner(System.in);
