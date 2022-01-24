@@ -1,7 +1,7 @@
 import java.util.Scanner;
-public class DigiNum
+public class NumOfDigits
 {
-    public static void main()
+    public static void main(String[] args)
     {
         Scanner sc = new Scanner(System.in);
         System.out.println("Input a number from 0 to 999 to find if it is 1 digit, 2 digit or 3 digit.");
