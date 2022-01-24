@@ -1,8 +1,7 @@
 import java.util.Scanner;
-
 class DigitSum
 {
-    public static void main()
+    public static void main(String[] args)
     {
         int i,sum;
         Scanner sc=new Scanner(System.in);
