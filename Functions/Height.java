@@ -7,7 +7,7 @@ public class Height
         
         System.out.println("Height of "+height+" inches = "+height_F+" feet and "+height_I+" inches");
     }
-    public static void main(int height_)
+    public static void main(String[] args, int height_)
     {
         Height obj1 = new Height();
         obj1.changeHeight(height_);
