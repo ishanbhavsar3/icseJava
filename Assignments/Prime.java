@@ -1,7 +1,12 @@
+
+import java.util.Scanner;
 public class Prime
 {
-    public static void main(int num)
+    public static void main(String[] args)
     {
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Input a number to check if it is prime.");
+        int num = sc.nextInt();
         
         boolean isPrime = true;
         
