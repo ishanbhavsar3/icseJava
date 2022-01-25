@@ -1,7 +1,7 @@
 import java.util.Scanner;
-public class SolVol
+public class SolidVol
 {
-    public static void main()
+    public static void main(String[] args)
     {
         final double pi = 3.14;
         Scanner sc = new Scanner(System.in);
