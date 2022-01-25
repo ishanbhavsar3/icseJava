@@ -1,4 +1,4 @@
-public class MathFun
+public class MathFunc2
 {
     public static void  main()
     {
