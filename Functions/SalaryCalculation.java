@@ -23,11 +23,9 @@ public class SalaryCalculation
         SalaryCal();
         giveValues();
         System.out.println(ca.annualSal);
-
     }
-
-    public static void main() {
-            SalaryCalculation ob = new SalaryCalculation();
-            ob.Display();
-        }
+    public static void main(String[] args) {
+        SalaryCalculation ob = new SalaryCalculation();
+        ob.Display();
+    }
 }
