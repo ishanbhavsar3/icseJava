@@ -1,6 +1,6 @@
 public class Swap
 {
-    public static void main()
+    public static void main(String[] args)
     {
         int a, b, y;
         a = 10;
