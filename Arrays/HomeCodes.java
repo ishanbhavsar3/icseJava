@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class arrays {
+public class HomeCodes {
 
     public static void main(String[] args) {
         String[] house = new String[]{"Ketan", "Jigna", "Aarti", "Rajnikant", "Ishan"};
@@ -10,7 +10,7 @@ public class arrays {
             System.out.println("Welcome, " + house[0]);
         } else if (ask == 1611) {
             System.out.println("Welcome, " + house[1]);
-        } else if (ask == 14) {
+        } else if (ask == 104) {
             System.out.println("Welcome, " + house[2]);
         } else if (ask == 3101) {
             System.out.println("Welcome, " + house[3]);
