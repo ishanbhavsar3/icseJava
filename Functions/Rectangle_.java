@@ -12,7 +12,7 @@
         double area = length*breadth;
         System.out.println("Area of rectangle = "+area);
     }
-    public static void main()
+    public static void main(String[] args)
     {
         Rectangle_ obj = new Rectangle_();
         obj.Accept(15.4,12.4);
