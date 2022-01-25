@@ -1,5 +1,5 @@
 import java.util.*;
-public class Hyp 
+public class HypotenuseMathFunc
 {
     public static void main()
     {
