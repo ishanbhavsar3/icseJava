@@ -1,6 +1,7 @@
+// some value swapping :)
 public class NewSwap
 {
-    public static void main()
+    public static void main(String[] args)
     {
         char m = 'a';
         char n = 'b';
