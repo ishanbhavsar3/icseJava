@@ -9,9 +9,8 @@ public class Tables
         System.out.println("Input till what number you want the table.");
         long b = sc.nextLong();
 
-        for(long c = 0; c<=b; c++)
+        for(int c = 0; c<=b; c++)
         {
-            System.out.println();
             System.out.println(a+"*"+c+"="+ (a*c));
         }
     }
