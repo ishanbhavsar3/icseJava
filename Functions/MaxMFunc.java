@@ -1,6 +1,6 @@
 public class MaxMFunc
 {
-    public static void main()
+    public static void main(String[] args)
     {
         double a = 12;
         double b = 13;
