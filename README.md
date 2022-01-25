@@ -3,7 +3,7 @@
 This repository is aimed at providing the students of computer applications at a school affiliated with the CISCE board in India, UAE, Singapore, Thailand & Indonesia, with all the types of java programs  which are included in the syllabus for learning / educational purposes. The programs can be commented upon and edited by simple pull requests which shall be approved by the administrator.
 
 
-## For non BlueJ users.
+## For the geeky users.
 To run java code on your device you shall need the JDK, JRE and JVM installed and running on the computer.
 
 Most of the modern day devices come with th [JDK ( Java Development Kit )](https://www.geeksforgeeks.org/jdk-in-java/) installed which consists of the [Java Runtime Environment ( JRE )](https://geeksforgeeks.org/jre-in-java/) and [Java Virtual Machine ( JVM )](https://www.geeksforgeeks.org/jvm-works-jvm-architecture/) built into it, but if your device does not contain it, or is quite old & you're unaware about it, you can click the link [here](https://www.oracle.com/java/technologies/downloads/) to get redirected to a download page from where you can download and install the JDK for your device, based on your device's architecture which you can find in the system info.
