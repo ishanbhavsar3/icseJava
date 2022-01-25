@@ -1,4 +1,4 @@
-public class Max
+public class MaxMFunc
 {
     public static void main()
     {
