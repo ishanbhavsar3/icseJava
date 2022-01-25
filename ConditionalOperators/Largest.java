@@ -1,5 +1,14 @@
-public class Large
+public class Largest
 {
+     public static void main(String[] args)
+    {
+        System.out.println("Input three numbers to find the largest among all.");
+        Scanner sc = new Scanner(System.in);
+        int d, e, f; d = sc.nextInt();
+        e = sc.nextInt(); f = sc.nextInt();
+        int large_ = larger(d,e,f);
+        System.out.println("Largest Integer = "+large_); 
+    }
     int larger(int a,int b,int c)
     {
         if(a>b)
@@ -24,10 +33,5 @@ public class Large
                 return(c);
             }   
         }
-    }
-    void show(int d,int e,int f)
-    {
-        int large_ = larger(d,e,f);
-        System.out.println("Largest Integer = "+large_);
     }
 }
