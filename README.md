@@ -61,9 +61,9 @@ ishan@MintyIsh:~/Desktop/LinDev$ java Fibonacci
 
 **The same javac and java statements can be used in Windows' CMD and MacOs' terminal. However, if you still have a doubt, please refer to the following videos.**
 
-**[VIDEO LINK 3]**   [ [ click here to see how to run the files in MacOS ]](https://www.youtube.com/watch?v=NcaqTKrVGHo)
+[ [ click here to see how to run the files in MacOS ]](https://www.youtube.com/watch?v=NcaqTKrVGHo)
 
-**[VIDEO LINK 4]**   [ [ click here to see how to run the files in Windows OS ]](https://www.youtube.com/watch?v=zBF1M8dTftk)
+[ [ click here to see how to run the files in Windows OS ]](https://www.youtube.com/watch?v=zBF1M8dTftk)
 
 
 **Before executing any of the programs, please check if the String[] argument of java.lang class is present in the main() method else it will show an error and will not run. Good luck with the programs!**
@@ -72,9 +72,9 @@ ishan@MintyIsh:~/Desktop/LinDev$ java Fibonacci
 
 For [BlueJ](https://bluej.org/) , you can go to the following videos to learn how to deal with the programs.
 
-**[ VIDEO LINK 1 ]**   [ [ Downloading BlueJ ] ](https://www.youtube.com/watch?v=97CGA0yJduw)
+[ [ Downloading BlueJ ] ](https://www.youtube.com/watch?v=97CGA0yJduw)
 
-**[ VIDEO LINK 2 ]**   [ [ Running the first program in BlueJ ] ](https://www.youtube.com/watch?v=z6PjSOw21_E)
+[ [ Running the first program in BlueJ ] ](https://www.youtube.com/watch?v=z6PjSOw21_E)
 
 It must be noted that the class name that you put while making the class and while writing the following statement shall be same and not different in any circumstance.
 
