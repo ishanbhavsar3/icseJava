@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class First30R
+public class First30Reverse
 {
     public static void main()
     {
