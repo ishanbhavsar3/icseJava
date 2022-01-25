@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class Scanner_
+class Mixed_
 
 {
     void main()
