@@ -1,6 +1,6 @@
-public class Patterna
+public class Patterns1
 {
-    public static void main()
+    public static void main(String[] args)
     {
         for(int i = 1; i<=3; i++)
         {
@@ -10,9 +10,7 @@ public class Patterna
             }
             System.out.println();
         }
-    }
-    public static void ma()
-    {
+        
         for(int i = 1; i<=4; i++)
         {
             for(int j = 1; j<=4; j++)
