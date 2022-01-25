@@ -2,20 +2,6 @@
 
 This repository is aimed at providing the students of computer applications at a school affiliated with the CISCE board in India, UAE, Singapore, Thailand & Indonesia, with all the types of java programs  which are included in the syllabus for learning / educational purposes. The programs can be commented upon and edited by simple pull requests which shall be approved by the administrator.
 
-##  BlueJ (as prescribed in the syllabus)
-
-For [BlueJ](https://bluej.org/) , you can go to the following videos to learn how to deal with the programs.
-
-**[ VIDEO LINK 1 ]**   [ [ Downloading BlueJ ] ](https://www.youtube.com/watch?v=97CGA0yJduw)
-
-**[ VIDEO LINK 2 ]**   [ [ Running the first program in BlueJ ] ](https://www.youtube.com/watch?v=z6PjSOw21_E)
-
-It must be noted that the class name that you put while making the class and while writing the following statement shall be same and not different in any circumstance.
-
-```java
-// name is user-defined
-public class [name]
-```
 
 ## For non BlueJ users.
 To run java code on your device you shall need the JDK, JRE and JVM installed and running on the computer.
@@ -81,6 +67,22 @@ ishan@MintyIsh:~/Desktop/LinDev$ java Fibonacci
 
 
 **Before executing any of the programs, please check if the String[] argument of java.lang class is present in the main() method else it will show an error and will not run. Good luck with the programs!**
+
+##  BlueJ (as prescribed in the syllabus)
+
+For [BlueJ](https://bluej.org/) , you can go to the following videos to learn how to deal with the programs.
+
+**[ VIDEO LINK 1 ]**   [ [ Downloading BlueJ ] ](https://www.youtube.com/watch?v=97CGA0yJduw)
+
+**[ VIDEO LINK 2 ]**   [ [ Running the first program in BlueJ ] ](https://www.youtube.com/watch?v=z6PjSOw21_E)
+
+It must be noted that the class name that you put while making the class and while writing the following statement shall be same and not different in any circumstance.
+
+```java
+// name is user-defined
+public class [name]
+```
+
 
 ## Contribution
 Pull requests are welcome. For major changes or additions , please open an issue first to discuss what you would like to change or add into the repository
