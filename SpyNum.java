@@ -1,7 +1,8 @@
-import java.util.Scanner;  
+import java.util.Scanner; 
+// when sum = product, it's a spy number.
 public class SpyNum  
 {  
-    public static void main()  
+    public static void main(String[] args)  
     {   
         int num, product=1, sum=0, lastdigit;  
         Scanner sc = new Scanner(System.in);  
