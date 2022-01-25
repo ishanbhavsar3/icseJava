@@ -80,7 +80,7 @@ ishan@MintyIsh:~/Desktop/LinDev$ java Fibonacci
 **[VIDEO LINK 4]**   [ [ click here to see how to run the files in Windows OS ]](https://www.youtube.com/watch?v=zBF1M8dTftk)
 
 
-***Before executing my programs, please check if the String[] args ( String[] argument of java.lang class ) is present as an argument in the main method else it will show an error and will not run. Good luck with the programs!***
+**Before executing any of the programs, please check if the String[] argument of java.lang class is present in the main() method else it will show an error and will not run. Good luck with the programs!**
 
 ## Contribution
 Pull requests are welcome. For major changes or additions , please open an issue first to discuss what you would like to change or add into the repository
