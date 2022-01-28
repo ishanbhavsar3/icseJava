@@ -88,7 +88,7 @@ ishan@MintyIsh:~/Desktop/LinDev$ java Fibonacci
 [ click here to see how to run the files in Windows  ](https://www.youtube.com/watch?v=zBF1M8dTftk)
 
 
-***Before executing the programs, please check if the String argument of java.lang class is present in the main() method else it will will not run. ***
+***Before executing the programs, please check if the String argument of java.lang class is present in the main() method else it will will not run***
 
 ##  BlueJ (as prescribed in the syllabus)
 
