@@ -1,4 +1,13 @@
+
+
 # All Java programs for CISCE students
+[![LICENSE](https://img.shields.io/badge/license-MIT-blue.svg)](t.ly/u6LW)
+<img src="https://madewithlove.now.sh/in?text=+India" alt="Made with love in  India">
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/ishanbhavsar3/icseJava/commit-activity)
+![Maintainer](https://img.shields.io/badge/maintainer-Ishan-blue)
+[![GitHub commits](https://badgen.net/github/commits/ishanbhavsar3/icseJava)](https://GitHub.com/ishanbhavsar3/icseJava/commit/)
+
+
 
 This repository is aimed at providing the students of computer applications at a school affiliated with the CISCE board in India, UAE, Singapore, Thailand & Indonesia, with all the types of java programs  which are included in the syllabus for learning / educational purposes. The programs can be commented upon and edited by simple pull requests which shall be approved by the administrator.
 
@@ -50,23 +59,36 @@ public class Fibonacci
 
 
 
-So, to navigate to my desktop in the terminal I shall use the following command called **cd** . Further, I will get into my folder LinDev. Once that is done, I write the **javac Fibonacci.java** statement in Bash to tell the terminal to get my Fibonacci.java file compiled into a **.class** file. Now you can wait for a while and then type **java Fibonacci** to see your file running in the Linux Terminal. 
-
+So, to navigate to my desktop in the terminal I shall use the following command called **cd** .
 ```console
 ishan@MintyIsh:~$ cd Desktop
+```
+Further, I will get into my folder LinDev. 
+```console
 ishan@MintyIsh:~/Desktop$ cd LinDev
+```
+
+Once that is done, I write the **javac Fibonacci.java** statement in Bash to tell the terminal to get my Fibonacci.java file compiled into a **.class** file. 
+```console
 ishan@MintyIsh:~/Desktop/LinDev$ javac Fibonacci.java
+```
+Now you can wait for a while and then type **java Fibonacci** to see your file running in the Linux Terminal. 
+```console
 ishan@MintyIsh:~/Desktop/LinDev$ java Fibonacci
 ```
 
 **The same javac and java statements can be used in Windows' CMD and MacOs' terminal. However, if you still have a doubt, please refer to the following videos.**
 
+[![macOS](https://svgshare.com/i/ZjP.svg)](https://svgshare.com/i/ZjP.svg)
+
 [ click here to see how to run the files in MacOS ](https://www.youtube.com/watch?v=NcaqTKrVGHo)
+
+[![Windows](https://badgen.net/badge/icon/windows?icon=windows&label)](https://microsoft.com/windows/)
 
 [ click here to see how to run the files in Windows  ](https://www.youtube.com/watch?v=zBF1M8dTftk)
 
 
-**Before executing any of the programs, please check if the String[] argument of java.lang class is present in the main() method else it will show an error and will not run. Good luck with the programs!**
+***Before executing the programs, please check if the String argument of java.lang class is present in the main() method else it will will not run. ***
 
 ##  BlueJ (as prescribed in the syllabus)
 
@@ -89,3 +111,6 @@ Pull requests are welcome. For major changes or additions , please open an issue
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+
+                           
+
