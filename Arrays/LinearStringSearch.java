@@ -8,12 +8,11 @@ public class LinearStringSearch {
         System.out.println("'Input string array of what length you wish to input.");
         int n = sc.nextInt();
         String[] a = new String[n];
-        System.out.println("Input "+n+" words into the string.");
+        System.out.println("Input "+n+" words into the string, make sure your array is sorted.");
         for (int i = 0; i < a.length; i++) {
             a[i] = sc.next();
         }
-        Arrays.sort(a);
-        System.out.println("Sorted Array: ");
+       
         for (int i = 0; i < a.length; i++) {
             System.out.print(a[i]+"\t");
         }
